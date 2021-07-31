@@ -1,0 +1,51 @@
+{
+	"basics": {
+		"name": "Kamal Kant Bhardwaj",
+		"label": "Student",
+		"picture": "---Enter Image URL----",
+		"email": "2019kucp1123@iiitkota.ac.in",
+		"summary": "Life is a learning.",
+		"location": {
+			"city": "Mathura",
+			"countryCode": "India",
+			"region": "U.P."
+		},
+		"profiles": [
+			{
+				"network": "Github",
+				"username": "kamalkantsharmaa9",
+				"url": "https://github.com/kamalkantsharmaa9/"
+			},
+			{
+				"network": "linkedin",
+				"username": "KAMAL KANT BHARDWAJ",
+				"url": "https://www.linkedin.com/in/kamal-kant-bhardwaj/"
+			}
+		]
+	},
+	
+	"education": [{
+		"institution": "Indian Institute of Information technology,kota",
+		"area": "Engineering",
+		"studyType": "Bachelor (hons)",
+		"startDate": "2019-08-03 //Date",
+		"endDate": "----",
+		"gpa": "---Add your CGPA ---",
+		"courses": [
+			"Computer Science & Engineering"
+		]
+	}],
+	"publications": [{
+		"title": "---Enter Title---",
+		"details": "---Enter Details---",
+		"link": "---github/website link to show your work---"
+	}],
+	"skills": [{
+		"level": "Master",
+		"keywords": ["HTML", "CSS", "Python", "C/C++","Machine Learning","Competitive programming"]
+	}],
+	"interests": [{
+		"name": "Sports",
+		"keywords": ["Chess", "Cricket"]
+	}],
+	"references": []
