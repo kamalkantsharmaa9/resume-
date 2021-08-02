@@ -2,7 +2,7 @@
 	"basics": {
 		"name": "Kamal Kant Bhardwaj",
 		"label": "Student",
-		"picture": "---Enter Image URL----",
+		"picture": "https://drive.google.com/file/d/1e-mHRvKs35kWgeI2w46WzCMbkk4ThKAF/view?usp=sharing",
 		"email": "2019kucp1123@iiitkota.ac.in",
 		"summary": "Life is a learning.",
 		"location": {
@@ -35,11 +35,6 @@
 			"Computer Science & Engineering"
 		]
 	}],
-	"publications": [{
-		"title": "---Enter Title---",
-		"details": "---Enter Details---",
-		"link": "---github/website link to show your work---"
-	}],
 	"skills": [{
 		"level": "Master",
 		"keywords": ["HTML", "CSS", "Python", "C/C++","Machine Learning","Competitive programming"]
@@ -48,5 +43,5 @@
 		"name": "Sports",
 		"keywords": ["Chess", "Cricket"]
 	}],
-	"references": []
+	
 }
