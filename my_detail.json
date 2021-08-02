@@ -48,11 +48,11 @@
 	"skills": [{
 		"level": "Master",
 		"keywords": ["HTML", "CSS", "Python", "C/C++","Machine Learning","Competitive programming"],
-		"strongAreas": ["Data Structures and Algorithms","Competitive programming"] 
+		"strongAreas": ["Data Structures and Algorithms"] 
 	}],
 	"interests": [{
 		"name": "Sport and skills",
-		"keywords": ["Chess", "Cricket","Deep Learning", "Machine Learning"]
+		"keywords": ["Cricket"]
 	}]
 	
 }
