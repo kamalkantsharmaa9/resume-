@@ -20,6 +20,16 @@
 				"network": "linkedin",
 				"username": "KAMAL KANT BHARDWAJ",
 				"url": "https://www.linkedin.com/in/kamal-kant-bhardwaj/"
+			},
+			{
+				"network": "Codeforces",
+				"username": "kamalsharmaa9",
+				"url": "https://codeforces.com/profile/kamalsharmaa9"
+			},
+			{
+				"network": "Codechef",
+				"username": "kamalsharmaa9",
+				"url": "https://www.codechef.com/users/kamalsharmaa9"
 			}
 		]
 	},
@@ -38,10 +48,11 @@
 	"skills": [{
 		"level": "Master",
 		"keywords": ["HTML", "CSS", "Python", "C/C++","Machine Learning","Competitive programming"]
+		"strong areas":[ "Data Structures and Algorithms","Competitive programming"] 
 	}],
 	"interests": [{
-		"name": "Sports",
-		"keywords": ["Chess", "Cricket"]
+		"name": "Sport and skills",
+		"keywords": ["Chess", "Cricket","Deep Learning", "Machine Learning"]
 	}],
 	
 }
